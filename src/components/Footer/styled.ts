@@ -1,11 +1,7 @@
 import styled from "styled-components";
 
 export const FooterWrapper = styled.footer`
-  position: fixed;
-  padding: 1rem 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
+  margin: 2rem 0 0 0;
 `;
 
 export const Text = styled.p`
